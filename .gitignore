@@ -162,5 +162,7 @@ cython_debug/
 research/
 data/
 data.zip
-main.py
+# main.py
 logs/
+research/01_data_ingestion.ipynb
+research/trials.ipynb
