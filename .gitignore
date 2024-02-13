@@ -162,3 +162,5 @@ cython_debug/
 research/
 data/
 data.zip
+main.py
+logs/
